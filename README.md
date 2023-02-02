@@ -13,5 +13,5 @@ This is an app created as an assignment for OONZOO Recruitment.
 - [APK](https://apkfab.com/oonzoo/com.example.oonzoo/apk?h=4ecf9021e28cbad47cb49c9a71bf7b64570de565b2347c3a6bc3c602cb977c44)
   
 <div id="header" align="center">
-  <h2> Assigned By Ajna S Nazarudeen
+  <h5> Assigned By Ajna S Nazarudeen
 </div>
